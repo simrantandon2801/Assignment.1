@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "e-billgenerator",
+    "private_key_id": "47b3a6c544ec833a11c3ee1e245928ac5a8703a8",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCV7/gshaplifUA\nbA+U7bJeEbEjDgIwE+xTOBA+5Qom7kPaDok8gw7hIUg4IAaTx/txv3dzukEELp1H\nviglMz+CmmoXzs8qktlqFY6OtVkaPrlzK/xqRj2VTqjDTMwAGmciQ3Y+GrfXzk6x\n3m/pETya45fYEDw2A9I7bJPs1P9IukGow1dE5sQCwPYNnS+Rvu/yBTweemaUbAqY\nyJN4TWjP8t41NFHcBwJTk2tOEBrBpQZ1TEseyaZnpzJCiG1RFKEIsb0BIWRP8z0k\nKbB4RAijPaOSUytbbxtNKqlCBQ5HVwG2IHM83Th7PtjBia6Xyu/yNN4DXa2YIpOI\nfpM5EnwLAgMBAAECggEAJqR+rybR6DJ6gN3Y1DbAqirgHts86BwyY65GzZblG2x7\n80acywox+wbDYKesWkkHvmSsyhg+KnBDG9rf6NqA602Vu0YTMXNAcm1U3OXTLYbt\n78dt2gv5UjJAH3l6+CnV28hMQKxNJmLm+EOOTyCgoIC4wThJ9Ffexm7w3vB0TM9D\nDAJgmg8QIE4rzUX1fiykxhYTVGNTxULCVbC3MlG+WQPsL154Ux5xmap+e5IReW95\nfbDI7/NlY244zvumEC0vGzyhaeVWJUKQrUF95K66kn0D/wkKnn4K9GTIwNBgg+Xk\nxRv4skVCyyLiqgRjMs7LVp5d1pYG4KrzKjuP5ASjeQKBgQDL+3pZCSeM0xLO8Bog\nbo/gtAYzZibgRloCO5VEaofQRKuxdpIkYPvSMtv3GWtPWRQUjYNZMD78BQmtVnCG\nGhxiCV9WDFf7OkeIh3H6JTRSp5+TPsCIS4NpgHZ6D85J4GCGpoBHNvgBlH6SO4A2\nRqDySfeGV9iANWsBUavW0/YLQwKBgQC8LEosckUPMq0/1hc/TXffNTkRwusSUaOr\nZxq6DNsVzuT5HgxvxBnukSFs8dk2Y+QluvpxrpOOqLwlk9aIYDq5vjiqC7rWQU2N\n+ymYcs4A+URQqjD7S4F8jGQzmPzjJoTbm4ns3Mi9+intMWUgFqFDJpxpdPGjK8cO\nVcq9MICrmQKBgQCin65uN48xhcIT+3ZI7vyEH+JlrgZGfbAa4ZfigLAgie78P9TJ\nbgy2C1g1Cy3zh8grjpruSzmbwQRzDlwNfdmtC13Xg2XNZCxNm/ZxgKHTV9IwGTJ0\nNwfg38sVC27ilSE/mJTisd9Nmy7BtPBF1U9Re0j88SIpLO1PkuZWEoyxcwKBgQCj\nVLopLCJfV7hjgXv6OU7EEplvnkWWSACNhVgAh6oems/Kn9dhp9Bub9CYlK/acwgT\n6+D4jfSMTk/JOjJre0Nd+AuNJdNNp68efxSSu4ut8q7maWNMrDQ/nEhZNQDEVana\nSH6GdvlTVPHRbR9+o8Xj2H7JVnVrEVOdUMBCSPhWeQKBgDwvxp/fKmNQdvw8+67s\nNNH87J7VWOmVC4NSolR9btdSUgvE2UxZoz2SUH+jLAnYxt3x6HTkPyYQqbTtfKxh\nRqHF5FiQ7SnF/mFRxXfV9ja7/vsuZAqFoEYyEa6glInyFyYN3NVQDHMw1Fmt4/PA\n7Dwb64bgA/Upu4AOkupxlwgV\n-----END PRIVATE KEY-----\n",
+    "client_email": "simran@e-billgenerator.iam.gserviceaccount.com",
+    "client_id": "112258524951078799113",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/simran%40e-billgenerator.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
